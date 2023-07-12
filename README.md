@@ -1,1 +1,1 @@
-# studing-ts
+# studying-ts
